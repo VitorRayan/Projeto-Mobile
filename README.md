@@ -1,0 +1,1 @@
+Aplicativo CookCraft, aplicativo simples de receitas.
